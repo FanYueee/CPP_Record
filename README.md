@@ -8,5 +8,5 @@
 
 ---
 FanYueee committed to this repository.
-Blog：[https://fanyueee.codingcode.club/](https://fanyueee.codingcode.club/)
+Blog：[https://blog.fanyueee.cc/](https://blog.fanyueee.cc/)
 
