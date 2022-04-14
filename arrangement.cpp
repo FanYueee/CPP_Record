@@ -26,7 +26,7 @@ int main(void){
     cin >> S;
     while(L<=R){
         M=(L+R)/2;
-        if(grade[M] == s){
+        if(grade[M] == S){
             cout << "註標值為" << M << "位置找到" << S;
             return 0; 
         }
